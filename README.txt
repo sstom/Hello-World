@@ -1,1 +1,1 @@
-テストです。This is test!
+This is Test
